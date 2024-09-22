@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 18 23:09:27 2024
 
-@author: Hp
+@author: Chetan_Devre
 
 Problem: 
     A F&B manager wants to determine whether there is any significant difference in the diameter of the cutlet between two units.
