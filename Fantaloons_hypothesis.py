@@ -2,7 +2,7 @@
 """
 Created on Tue Mar 19 11:39:16 2024
 
-@author: Paresh DHamne
+@author: Chetan_Devre
 
 Problem:
     Fantaloons Sales managers commented that % of males versus females walking into the store differ based on day of the week. 
